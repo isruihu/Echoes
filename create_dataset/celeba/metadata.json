@@ -1,0 +1,154 @@
+{
+  "Smiling__Male__Young": {
+    "common_biasA_common_biasB": [
+      {
+        "target": 0,
+        "biasA": 1,
+        "biasB": 0
+      },
+      {
+        "target": 1,
+        "biasA": 0,
+        "biasB": 1
+      }
+    ],
+    "common_biasA_uncommon_biasB": [
+      {
+        "target": 0,
+        "biasA": 1,
+        "biasB": 1
+      },
+      {
+        "target": 1,
+        "biasA": 0,
+        "biasB": 0
+      }
+    ],
+    "uncommon_biasA_common_biasB": [
+      {
+        "target": 0,
+        "biasA": 0,
+        "biasB": 0
+      },
+      {
+        "target": 1,
+        "biasA": 1,
+        "biasB": 1
+      }
+    ],
+    "uncommon_biasA_uncommon_biasB": [
+      {
+        "target": 0,
+        "biasA": 0,
+        "biasB": 1
+      },
+      {
+        "target": 1,
+        "biasA": 1,
+        "biasB": 0
+      }
+    ]
+  },
+
+  "Narrow_Eyes__Male__Young": {
+    "common_biasA_common_biasB": [
+      {
+        "target": 0,
+        "biasA": 1,
+        "biasB": 0
+      },
+      {
+        "target": 1,
+        "biasA": 0,
+        "biasB": 1
+      }
+    ],
+    "common_biasA_uncommon_biasB": [
+      {
+        "target": 0,
+        "biasA": 1,
+        "biasB": 1
+      },
+      {
+        "target": 1,
+        "biasA": 0,
+        "biasB": 0
+      }
+    ],
+    "uncommon_biasA_common_biasB": [
+      {
+        "target": 0,
+        "biasA": 0,
+        "biasB": 0
+      },
+      {
+        "target": 1,
+        "biasA": 1,
+        "biasB": 1
+      }
+    ],
+    "uncommon_biasA_uncommon_biasB": [
+      {
+        "target": 0,
+        "biasA": 0,
+        "biasB": 1
+      },
+      {
+        "target": 1,
+        "biasA": 1,
+        "biasB": 0
+      }
+    ]
+  },
+
+  "Arched_Eyebrows__Male__Young": {
+    "common_biasA_common_biasB": [
+      {
+        "target": 0,
+        "biasA": 1,
+        "biasB": 0
+      },
+      {
+        "target": 1,
+        "biasA": 0,
+        "biasB": 1
+      }
+    ],
+    "common_biasA_uncommon_biasB": [
+      {
+        "target": 0,
+        "biasA": 1,
+        "biasB": 1
+      },
+      {
+        "target": 1,
+        "biasA": 0,
+        "biasB": 0
+      }
+    ],
+    "uncommon_biasA_common_biasB": [
+      {
+        "target": 0,
+        "biasA": 0,
+        "biasB": 0
+      },
+      {
+        "target": 1,
+        "biasA": 1,
+        "biasB": 1
+      }
+    ],
+    "uncommon_biasA_uncommon_biasB": [
+      {
+        "target": 0,
+        "biasA": 0,
+        "biasB": 1
+      },
+      {
+        "target": 1,
+        "biasA": 1,
+        "biasB": 0
+      }
+    ]
+  }
+}
